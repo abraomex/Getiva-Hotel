@@ -1,0 +1,7 @@
+# Robots.txt for Getva Hotel Debre Birhan
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://getvahotel.com/sitemap.xml
